@@ -1,0 +1,19 @@
+{
+  "name": "svg.foreignobject.js",
+  "version": "1.0.0",
+  "description": "A plugin for the [svgjs.com](http://svgjs.com) library to create foreign object elements in svg.",
+  "main": "svg.foreignobject.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OE-Ryo/svg.foreignobject.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OE-Ryo/svg.foreignobject.js/issues"
+  },
+  "homepage": "https://github.com/OE-Ryo/svg.foreignobject.js#readme"
+}
